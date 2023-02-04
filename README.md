@@ -8,7 +8,8 @@ As a school project i worked in a group of 3 on a website for a game some people
 I guess, I could say, currently nothing much. I look out for storys to add to my profile and if there are ideas I have, I note them down and if I have the time, I guess I start them.
 ## What am I currently working on?
 I guess I'll have to finish school. That would be one important thing for me to do first.<br>
-When I'm done with school, I have to find a place, where I can be a trainee first. If I have time after that, I'll get to work on my projects or something.
+When I'm done with school, I have to find a place, where I can be a trainee first. If I have time after that, I'll get to work on my projects or something.<br> Also I'll write my ideas down in my repository [**.ideas**](https://github.com/MCLP2005/.ideas)
+
 
 <!--
 **MCLP2005/MCLP2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
